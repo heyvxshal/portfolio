@@ -101,4 +101,13 @@
     font-family: "hanson-Bold";
     src: url("../public/fonts/hanson-Bold.otf") format("truetype");
   }
+  @font-face {
+    font-family: "agrandir-Regular";
+    src: url("../public/fonts/agrandir/Agrandir-Regular.otf") format("truetype");
+  }
+  @font-face {
+    font-family: "agrandir-Bold";
+    src: url("../public/fonts/agrandir/Agrandir-WideBlackItalic.otf")
+      format("truetype");
+  }
 }

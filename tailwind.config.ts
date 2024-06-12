@@ -30,6 +30,8 @@ const config = {
         schaboCondensed: ["schabo-Condensed", "sans-serif"],
         thunderBold: ["thunder", "sans-serif"],
         hansonBold: ["hanson-Bold", "sans-serif"],
+        agrandirRegular: ["agrandir-Regular", "sans-serif"],
+        agrandirBold: ["agrandir-Bold", "sans-serif"],
       },
       colors: {
         black: {
